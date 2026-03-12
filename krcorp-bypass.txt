@@ -3,10 +3,6 @@
 ! Author: KR.Corp
 ! Homepage: https://dns-bypass.ketame.ru
 
-# DNS хост
-127.0.0.1 adhome.host^$important
-192.168.1.101 client1.host^$important
-192.168.1.102 client2.host^$important
 # Telegram Web
 149.154.167.220 telegram.me^$important
 149.154.167.220 telegram.dog^$important
