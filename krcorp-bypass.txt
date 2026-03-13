@@ -179,10 +179,6 @@
 95.182.120.241 open-exp.spotifycdn.com^$important
 45.155.204.190 www-growth.scdn.co^$important
 95.182.120.241 www-growth.scdn.co^$important
-# GitHub Copilot (в первом нет — оставлено как было)
-144.31.14.104 api.github.com^$important
-144.31.14.104 api.individual.githubcopilot.com^$important
-144.31.14.104 proxy.individual.githubcopilot.com^$important
 # JetBrains  (замены из первого)
 45.155.204.190 datalore.jetbrains.com^$important
 95.182.120.241 datalore.jetbrains.com^$important
