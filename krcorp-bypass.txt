@@ -653,15 +653,3 @@
 104.25.158.178 finland10197.discord.media^$important
 104.25.158.178 finland10198.discord.media^$important
 104.25.158.178 finland10199.discord.media^$important
-# BLOCK
-@@||fonts.gstatic.com^$important
-@@||extccp.com^$important
-||mc.yandex.ru^$important
-||bs.yandex.ru^$important
-||direct.yandex.ru^$important
-||an.yandex.ru^$important
-@@||ogads-pa.googleapis.com^$important
-||bing.com^$important
-||mobile.events.data.microsoft.com^$important
-@@||vk.com^$important
-@@||mail.ru^$important
